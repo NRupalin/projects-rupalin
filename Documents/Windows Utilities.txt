@@ -7,12 +7,29 @@ Run -> msinfo32
 
 Windows Console commands:
 d:
-cd d:\<Some Folder>
+cd <Path>
+cd .
+cd ..
+D:\>cd .\projects-rupalin === D:\>cd projects-rupalin
+D:\>cd projects-rupalin\Documents\
+
+mkdir <Folder Name>
+
+
 cls
+dir
+exit
 
 Generic Windows command:
-Ctrl + c
-Ctrl + v
-Ctrl + X
-Ctrl + Z
+Ctrl + c - Copy
+Ctrl + v - Paste
+Ctrl + X - Cut
+Ctrl + Z - 
 Ctrl + Y
+
+
+------------
+use 'Tab'
+use arrow keys
+
+
