@@ -1,7 +1,7 @@
 First Time (Only Once):
 
 
-git clone https://github.com/GeetDevBox/ds-lafore.git
+git clone https://github.com/NRupalin/projects-rupalin.git
 
 
 Everyday before working:

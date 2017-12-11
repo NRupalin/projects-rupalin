@@ -3,3 +3,16 @@ Open 'Run' Command box: Windows + R
 Run -> cmd
 Run -> sysdm.cpl
 Run -> msinfo32
+
+
+Windows Console commands:
+d:
+cd d:\<Some Folder>
+cls
+
+
+Ctrl + c
+Ctrl + v
+Ctrl + X
+Ctrl + Z
+Ctrl + Y
