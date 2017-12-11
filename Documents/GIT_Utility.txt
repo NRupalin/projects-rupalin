@@ -25,3 +25,4 @@ git config user.email
 
 git config --global user.name "nrupalin"
 git config --global user.email nayakrupalin@gmail.com
+updated by rupalin
