@@ -1,0 +1,5 @@
+Open 'Run' Command box: Windows + R
+
+Run -> cmd
+Run -> sysdm.cpl
+Run -> msinfo32

@@ -1,0 +1,27 @@
+First Time (Only Once):
+
+
+git clone https://github.com/GeetDevBox/ds-lafore.git
+
+
+Everyday before working:
+-----------------------
+git pull
+
+Everyday after working:
+-----------------------
+git add .
+git commit -m "<commit message>"
+git push origin master
+
+
+Other Useful commands:
+----------------------
+git status
+
+git config --list
+git config user.name
+git config user.email
+
+git config --global user.name "nrupalin"
+git config --global user.email nayakrupalin@gmail.com
