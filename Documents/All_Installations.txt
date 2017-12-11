@@ -2,11 +2,11 @@ Install these:
 1)	Git
 2)	Sublime text 3
 3)	Clear Cache chrome extension
-4)	Node Js  
+4)	Node Js and npm (Node Package Manager)
 5)	http-server
 
 Type these keywords in google for a start:
-
+------------------------------------------
 download git
 sublime text 3
 node js download

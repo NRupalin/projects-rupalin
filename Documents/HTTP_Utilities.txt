@@ -1,0 +1,7 @@
+URL: http://www.sonyliv.com:80/
+80 is the default port in internet
+
+
+ http://192.168.1.6:8080
+
+ http://192.168.1.6:8080/FirstWebApp/first.html
