@@ -10,7 +10,7 @@ d:
 cd d:\<Some Folder>
 cls
 
-
+Generic Windows command:
 Ctrl + c
 Ctrl + v
 Ctrl + X
